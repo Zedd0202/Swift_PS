@@ -1,20 +1,9 @@
+//
+//  mian.swift
+//  SwiftPratice
+//
+//  Created by Zedd on 2017. 5. 20..
+//  Copyright © 2017년 Zedd. All rights reserved.
+//
+
 import Foundation
-
-
-while true{
-    
-    var read =  readLine()
-    if var sol = read{
-        print(read!)
-    }
-    else {
-        break
-
-    }
-}
-
-/*while let line = readLine() {
-    print(line)
-}
-*/
- 
