@@ -1,9 +1,16 @@
 import Foundation
-var input = readLine()!
-/*for i in stride(from: Int(input)!, to: 0, by: -1){
-    print(i)
-}*/
-for i in (1...Int(input)!).reversed()
-{
-    print(i)
+
+var score = Int(readLine()!)!
+switch score{
+case 90...100:
+    print("A")
+case 80...89:
+    print("B")
+case 70...79:
+    print("C")
+case 60...69:
+    print("D")
+default:
+    print("F")
+    
 }
