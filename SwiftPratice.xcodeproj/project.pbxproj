@@ -6,10 +6,6 @@
 	objectVersion = 46;
 	objects = {
 
-/* Begin PBXBuildFile section */
-		14AA14A61EFAA2D3009B6CB6 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14F679B61EF2CCC500D06DE1 /* main.swift */; };
-/* End PBXBuildFile section */
-
 /* Begin PBXCopyFilesBuildPhase section */
 		14B707191ECC2F7600B05154 /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
@@ -31,12 +27,14 @@
 		14344E261ED2A8D0002C5C45 /* A+B -7.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "A+B -7.swift"; sourceTree = "<group>"; };
 		14344E281ED2AC18002C5C45 /* A+B - 8.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "A+B - 8.swift"; sourceTree = "<group>"; };
 		14344E2A1ED2AD3C002C5C45 /* N찍기.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "N찍기.swift"; sourceTree = "<group>"; };
+		14564A871F13B19500DC899C /* 평균점수.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "평균점수.swift"; sourceTree = "<group>"; };
 		1494ED4F1ED017A400634DDE /* A+B.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "A+B.swift"; sourceTree = "<group>"; };
 		1494ED521ED017F400634DDE /* A-B.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "A-B.swift"; sourceTree = "<group>"; };
 		1494ED541ED018E300634DDE /* A나누기B.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "A나누기B.swift"; sourceTree = "<group>"; };
 		1494ED5B1ED01CE300634DDE /* A*B.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "A*B.swift"; sourceTree = "<group>"; };
 		1494ED5D1ED01D0200634DDE /* 사칙연산.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "사칙연산.swift"; sourceTree = "<group>"; };
 		1494ED5F1ED01EEB00634DDE /* A+B-2.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "A+B-2.swift"; sourceTree = "<group>"; };
+		14AA14A71EFAA8A1009B6CB6 /* 유니코드.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "유니코드.swift"; sourceTree = "<group>"; };
 		14B7071B1ECC2F7600B05154 /* SwiftPratice */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = SwiftPratice; sourceTree = BUILT_PRODUCTS_DIR; };
 		14B707251ECC2F9200B05154 /* 그대로출력하기.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "그대로출력하기.swift"; sourceTree = "<group>"; };
 		14D09B651ED2C9FA00D5EE70 /* 기찍N.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "기찍N.swift"; sourceTree = "<group>"; };
@@ -48,7 +46,7 @@
 		14F679A61EF147A500D06DE1 /* X보다 작은수.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "X보다 작은수.swift"; sourceTree = "<group>"; };
 		14F679A81EF1549300D06DE1 /* 평균.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "평균.swift"; sourceTree = "<group>"; };
 		14F679B31EF2C95C00D06DE1 /* 수 정렬하기.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "수 정렬하기.swift"; sourceTree = "<group>"; };
-		14F679B61EF2CCC500D06DE1 /* main.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		14F679B61EF2CCC500D06DE1 /* 단어의 개수.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "단어의 개수.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,7 +103,9 @@
 				14F679A61EF147A500D06DE1 /* X보다 작은수.swift */,
 				14F679A81EF1549300D06DE1 /* 평균.swift */,
 				14F679B31EF2C95C00D06DE1 /* 수 정렬하기.swift */,
-				14F679B61EF2CCC500D06DE1 /* main.swift */,
+				14F679B61EF2CCC500D06DE1 /* 단어의 개수.swift */,
+				14AA14A71EFAA8A1009B6CB6 /* 유니코드.swift */,
+				14564A871F13B19500DC899C /* 평균점수.swift */,
 			);
 			path = SwiftPratice;
 			sourceTree = "<group>";
@@ -137,7 +137,7 @@
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 0810;
-				LastUpgradeCheck = 0810;
+				LastUpgradeCheck = 0830;
 				ORGANIZATIONNAME = Zedd;
 				TargetAttributes = {
 					14B7071A1ECC2F7600B05154 = {
@@ -170,7 +170,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				14AA14A61EFAA2D3009B6CB6 /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -195,6 +194,7 @@
 				CLANG_WARN_INFINITE_RECURSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
 				CLANG_WARN_SUSPICIOUS_MOVES = YES;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
@@ -243,6 +243,7 @@
 				CLANG_WARN_INFINITE_RECURSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
 				CLANG_WARN_SUSPICIOUS_MOVES = YES;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
@@ -262,6 +263,7 @@
 				MACOSX_DEPLOYMENT_TARGET = 10.12;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				SDKROOT = macosx;
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
 			};
 			name = Release;
 		};
