@@ -6,10 +6,6 @@
 	objectVersion = 46;
 	objects = {
 
-/* Begin PBXBuildFile section */
-		14CF08AC1F67C12700E055FB /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14CF08AA1F67BD6400E055FB /* main.swift */; };
-/* End PBXBuildFile section */
-
 /* Begin PBXCopyFilesBuildPhase section */
 		14B707191ECC2F7600B05154 /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
@@ -45,7 +41,8 @@
 		14B707251ECC2F9200B05154 /* 그대로출력하기.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "그대로출력하기.swift"; sourceTree = "<group>"; };
 		14CF08A61F67B84000E055FB /* 개표.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "개표.swift"; sourceTree = "<group>"; };
 		14CF08A81F67BA6C00E055FB /* 배수찾기.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "배수찾기.swift"; sourceTree = "<group>"; };
-		14CF08AA1F67BD6400E055FB /* main.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		14CF08AA1F67BD6400E055FB /* 과제 안내신분..?.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "과제 안내신분..?.swift"; sourceTree = "<group>"; };
+		14CF08AD1F67C4F400E055FB /* 과자.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "과자.swift"; sourceTree = "<group>"; };
 		14D09B651ED2C9FA00D5EE70 /* 기찍N.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "기찍N.swift"; sourceTree = "<group>"; };
 		14D09B671ED3C63D00D5EE70 /* 구구단.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "구구단.swift"; sourceTree = "<group>"; };
 		14D09B691ED3C78700D5EE70 /* 합.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "합.swift"; sourceTree = "<group>"; };
@@ -135,7 +132,8 @@
 				14DF11A91F67B27E00509046 /* 뒤집힌 덧셈.swift */,
 				14CF08A61F67B84000E055FB /* 개표.swift */,
 				14CF08A81F67BA6C00E055FB /* 배수찾기.swift */,
-				14CF08AA1F67BD6400E055FB /* main.swift */,
+				14CF08AA1F67BD6400E055FB /* 과제 안내신분..?.swift */,
+				14CF08AD1F67C4F400E055FB /* 과자.swift */,
 			);
 			path = SwiftPratice;
 			sourceTree = "<group>";
@@ -200,7 +198,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				14CF08AC1F67C12700E055FB /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
