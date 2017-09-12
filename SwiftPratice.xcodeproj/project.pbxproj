@@ -46,6 +46,7 @@
 		14DF119F1F67A41900509046 /* 문자열.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "문자열.swift"; sourceTree = "<group>"; };
 		14DF11A11F67A91600509046 /* Hello Judge.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Hello Judge.swift"; sourceTree = "<group>"; };
 		14DF11A31F67AA7D00509046 /* 전투 드로이드 가격.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "전투 드로이드 가격.swift"; sourceTree = "<group>"; };
+		14DF11A51F67AD5D00509046 /* 상수.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "상수.swift"; sourceTree = "<group>"; };
 		14F21C961ED668E400798612 /* string쪼개기.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "string쪼개기.swift"; sourceTree = "<group>"; };
 		14F679A41EF13C5400D06DE1 /* 세 수.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "세 수.swift"; sourceTree = "<group>"; };
 		14F679A61EF147A500D06DE1 /* X보다 작은수.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "X보다 작은수.swift"; sourceTree = "<group>"; };
@@ -120,6 +121,7 @@
 				14DF119F1F67A41900509046 /* 문자열.swift */,
 				14DF11A11F67A91600509046 /* Hello Judge.swift */,
 				14DF11A31F67AA7D00509046 /* 전투 드로이드 가격.swift */,
+				14DF11A51F67AD5D00509046 /* 상수.swift */,
 			);
 			path = SwiftPratice;
 			sourceTree = "<group>";
