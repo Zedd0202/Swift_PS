@@ -6,10 +6,6 @@
 	objectVersion = 46;
 	objects = {
 
-/* Begin PBXBuildFile section */
-		14CF08A71F67B84000E055FB /* 개표.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14CF08A61F67B84000E055FB /* 개표.swift */; };
-/* End PBXBuildFile section */
-
 /* Begin PBXCopyFilesBuildPhase section */
 		14B707191ECC2F7600B05154 /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
@@ -44,6 +40,7 @@
 		14B7071B1ECC2F7600B05154 /* SwiftPratice */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = SwiftPratice; sourceTree = BUILT_PRODUCTS_DIR; };
 		14B707251ECC2F9200B05154 /* 그대로출력하기.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "그대로출력하기.swift"; sourceTree = "<group>"; };
 		14CF08A61F67B84000E055FB /* 개표.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "개표.swift"; sourceTree = "<group>"; };
+		14CF08A81F67BA6C00E055FB /* 배수찾기.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "배수찾기.swift"; sourceTree = "<group>"; };
 		14D09B651ED2C9FA00D5EE70 /* 기찍N.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "기찍N.swift"; sourceTree = "<group>"; };
 		14D09B671ED3C63D00D5EE70 /* 구구단.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "구구단.swift"; sourceTree = "<group>"; };
 		14D09B691ED3C78700D5EE70 /* 합.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "합.swift"; sourceTree = "<group>"; };
@@ -132,6 +129,7 @@
 				14DF11A71F67B13200509046 /* 정수의개수.swift */,
 				14DF11A91F67B27E00509046 /* 뒤집힌 덧셈.swift */,
 				14CF08A61F67B84000E055FB /* 개표.swift */,
+				14CF08A81F67BA6C00E055FB /* 배수찾기.swift */,
 			);
 			path = SwiftPratice;
 			sourceTree = "<group>";
@@ -196,7 +194,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				14CF08A71F67B84000E055FB /* 개표.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
