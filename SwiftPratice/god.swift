@@ -5,7 +5,7 @@
 //  Created by Zedd on 2017. 9. 12..
 //  Copyright © 2017년 Zedd. All rights reserved.
 //
-
+/*
 import Foundation
 var test = Int(readLine()!)!
 for index in 1...test{
@@ -23,4 +23,19 @@ for index in 1...test{
         print(solStr)
         }
     }
+}*/
+import Foundation
+var test = Int(readLine()!)!
+for index in 1...test{
+    var input = readLine()
+    if let input = input{
+        if input.characters.count != 0{
+            
+            var sol = input.characters.split(separator: " ").map({String($0)})
+            print(sol)
+            sol[0] = "god"
+            print(sol.joined())
+        }
+    }
+    
 }
