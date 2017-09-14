@@ -28,6 +28,7 @@
 		140869E71F6A818F00AA166B /* 세로읽기(구현x).swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "세로읽기(구현x).swift"; sourceTree = "<group>"; };
 		140869E91F6A852200AA166B /* 10부제->질문.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "10부제->질문.swift"; sourceTree = "<group>"; };
 		140869EB1F6A879700AA166B /* 얼마?.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "얼마?.swift"; sourceTree = "<group>"; };
+		140869ED1F6A8A0200AA166B /* 대소문자 바꾸기.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "대소문자 바꾸기.swift"; sourceTree = "<group>"; };
 		1420E4311EDC122E0038880E /* 시험성적.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "시험성적.swift"; sourceTree = "<group>"; };
 		14344E1E1ED2A43A002C5C45 /* A+B -3.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "A+B -3.swift"; sourceTree = "<group>"; };
 		14344E201ED2A773002C5C45 /* A+B -4.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "A+B -4.swift"; sourceTree = "<group>"; };
@@ -162,6 +163,7 @@
 				140869E71F6A818F00AA166B /* 세로읽기(구현x).swift */,
 				140869E91F6A852200AA166B /* 10부제->질문.swift */,
 				140869EB1F6A879700AA166B /* 얼마?.swift */,
+				140869ED1F6A8A0200AA166B /* 대소문자 바꾸기.swift */,
 			);
 			path = SwiftPratice;
 			sourceTree = "<group>";
