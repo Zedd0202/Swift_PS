@@ -6,10 +6,6 @@
 	objectVersion = 46;
 	objects = {
 
-/* Begin PBXBuildFile section */
-		140869E01F6A2AB800AA166B /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 140869DF1F6A2AB800AA166B /* main.swift */; };
-/* End PBXBuildFile section */
-
 /* Begin PBXCopyFilesBuildPhase section */
 		14B707191ECC2F7600B05154 /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
@@ -25,7 +21,8 @@
 /* Begin PBXFileReference section */
 		140869DA1F68F52000AA166B /* 첫글자를 대문자로.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "첫글자를 대문자로.swift"; sourceTree = "<group>"; };
 		140869DC1F68F87100AA166B /* ㅇㅇ.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "ㅇㅇ.swift"; sourceTree = "<group>"; };
-		140869DF1F6A2AB800AA166B /* main.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		140869DF1F6A2AB800AA166B /* 모음의 개수.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "모음의 개수.swift"; sourceTree = "<group>"; };
+		140869E11F6A7C1800AA166B /* 소트인사이드.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "소트인사이드.swift"; sourceTree = "<group>"; };
 		1420E4311EDC122E0038880E /* 시험성적.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "시험성적.swift"; sourceTree = "<group>"; };
 		14344E1E1ED2A43A002C5C45 /* A+B -3.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "A+B -3.swift"; sourceTree = "<group>"; };
 		14344E201ED2A773002C5C45 /* A+B -4.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "A+B -4.swift"; sourceTree = "<group>"; };
@@ -153,7 +150,8 @@
 				14CF08B71F68108800E055FB /* god.swift */,
 				140869DA1F68F52000AA166B /* 첫글자를 대문자로.swift */,
 				140869DC1F68F87100AA166B /* ㅇㅇ.swift */,
-				140869DF1F6A2AB800AA166B /* main.swift */,
+				140869DF1F6A2AB800AA166B /* 모음의 개수.swift */,
+				140869E11F6A7C1800AA166B /* 소트인사이드.swift */,
 			);
 			path = SwiftPratice;
 			sourceTree = "<group>";
@@ -218,7 +216,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				140869E01F6A2AB800AA166B /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
