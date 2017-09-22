@@ -7,14 +7,54 @@
 //
 
 import Foundation
+var queue = [Int]()
+var val = 0
 var test = Int(readLine()!)!
-var arr = [Int]()
-for index in 1...test{
-    arr.append(Int(readLine()!)!)
-}
-if arr.filter({$0==0}).count > arr.filter({$0==1}).count{
-    print("Junhee is not cute!")
-}
-else{
-    print("Junhee is cute!")
+for _ in 1...test{
+    var input = readLine()!.components(separatedBy: " ")
+    let command = input[0]
+    if command == "push"{
+    val = Int(input[1])!
+    }
+    if command == "push"{
+        queue.append(val)
+    }
+    if command == "pop"{
+        if queue.isEmpty{
+            print(-1)
+        }
+        else{
+            print(queue.first!)
+            queue.removeFirst()
+        }
+    }
+    if command == "size"{
+        print(queue.count)
+    }
+    if command == "front"{
+        if queue.isEmpty{
+            print(-1)
+        }
+        else{
+        print(queue.first!)
+        }
+    }
+    if command == "back"{
+        if queue.isEmpty{
+            print(-1)
+        }
+        else{
+        print(queue.last!)
+        }
+    }
+    if command == "empty"{
+        if queue.isEmpty{
+            print(1)
+        }
+        else{
+            print(0)
+        }
+    }
+    
+    
 }
