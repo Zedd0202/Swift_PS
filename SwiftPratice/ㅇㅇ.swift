@@ -7,10 +7,11 @@
 //
 
 import Foundation
+
 func length(value1: String, value2: String) -> Bool {
-    // Compare character count of the strings.
     return value1.characters.count < value2.characters.count
 }
+
 var test =  Int(readLine()!)!
 var str = [String]()
 for index in 1...test{
@@ -20,3 +21,5 @@ for index in 1...test{
 }
 str.sort(by : length)
 print(str)
+
+

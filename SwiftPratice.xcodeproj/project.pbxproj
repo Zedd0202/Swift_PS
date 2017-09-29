@@ -6,6 +6,10 @@
 	objectVersion = 46;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		1405261A1F7BCCC800478AE9 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 140526191F7BCCC800478AE9 /* main.swift */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXCopyFilesBuildPhase section */
 		14B707191ECC2F7600B05154 /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
@@ -19,6 +23,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		140526191F7BCCC800478AE9 /* main.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		140869DA1F68F52000AA166B /* 첫글자를 대문자로.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "첫글자를 대문자로.swift"; sourceTree = "<group>"; };
 		140869DC1F68F87100AA166B /* ㅇㅇ.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "ㅇㅇ.swift"; sourceTree = "<group>"; };
 		140869DF1F6A2AB800AA166B /* 모음의 개수.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "모음의 개수.swift"; sourceTree = "<group>"; };
@@ -180,6 +185,7 @@
 				147E27941F6FD45000A0570A /* 큐.swift */,
 				1420EF2C1F7553710053C0B5 /* 국영수.swift */,
 				14979EDD1F79043F002B0527 /* 스택.swift */,
+				140526191F7BCCC800478AE9 /* main.swift */,
 			);
 			path = SwiftPratice;
 			sourceTree = "<group>";
@@ -244,6 +250,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1405261A1F7BCCC800478AE9 /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
