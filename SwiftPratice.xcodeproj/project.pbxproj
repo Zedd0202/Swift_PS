@@ -36,6 +36,7 @@
 		1420E4311EDC122E0038880E /* 시험성적.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "시험성적.swift"; sourceTree = "<group>"; };
 		1420EF2C1F7553710053C0B5 /* 국영수.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "국영수.swift"; sourceTree = "<group>"; };
 		14281D8F1F81211B00175D47 /* 홀수일까 짝수일까.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "홀수일까 짝수일까.swift"; sourceTree = "<group>"; };
+		14281D911F81278D00175D47 /* 가장 긴 감소하는 부분 수열-> 시간초과.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "가장 긴 감소하는 부분 수열-> 시간초과.swift"; sourceTree = "<group>"; };
 		14344E1E1ED2A43A002C5C45 /* A+B -3.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "A+B -3.swift"; sourceTree = "<group>"; };
 		14344E201ED2A773002C5C45 /* A+B -4.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "A+B -4.swift"; sourceTree = "<group>"; };
 		14344E221ED2A785002C5C45 /* A+B -5.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "A+B -5.swift"; sourceTree = "<group>"; };
@@ -186,6 +187,7 @@
 				140526191F7BCCC800478AE9 /* 피보나치함수.swift */,
 				140526411F811BD400478AE9 /* 괄호.swift */,
 				14281D8F1F81211B00175D47 /* 홀수일까 짝수일까.swift */,
+				14281D911F81278D00175D47 /* 가장 긴 감소하는 부분 수열-> 시간초과.swift */,
 			);
 			path = SwiftPratice;
 			sourceTree = "<group>";
