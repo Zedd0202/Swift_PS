@@ -49,6 +49,7 @@
 		143609641F9883D5006E266B /* 좌표정렬하기 2.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "좌표정렬하기 2.swift"; sourceTree = "<group>"; };
 		1436096C1F999919006E266B /* 디지털루트.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "디지털루트.swift"; sourceTree = "<group>"; };
 		1436096E1F99E2B6006E266B /* Adding Reversed Numbers.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Adding Reversed Numbers.swift"; sourceTree = "<group>"; };
+		1436097A1F9E3286006E266B /* 앵그리창영.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "앵그리창영.swift"; sourceTree = "<group>"; };
 		14564A871F13B19500DC899C /* 평균점수.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "평균점수.swift"; sourceTree = "<group>"; };
 		1460888A1F5D608900B88744 /* 최대공약수와 최소공배수.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "최대공약수와 최소공배수.swift"; sourceTree = "<group>"; };
 		1460888C1F5D695B00B88744 /* 팰린드롬인지 확인하기.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "팰린드롬인지 확인하기.swift"; sourceTree = "<group>"; };
@@ -200,6 +201,7 @@
 				143609641F9883D5006E266B /* 좌표정렬하기 2.swift */,
 				1436096C1F999919006E266B /* 디지털루트.swift */,
 				1436096E1F99E2B6006E266B /* Adding Reversed Numbers.swift */,
+				1436097A1F9E3286006E266B /* 앵그리창영.swift */,
 			);
 			path = SwiftPratice;
 			sourceTree = "<group>";
