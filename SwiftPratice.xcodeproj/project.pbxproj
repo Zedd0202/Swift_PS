@@ -6,6 +6,10 @@
 	objectVersion = 46;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		143609AE1F9F26C0006E266B /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 143609AD1F9F26C0006E266B /* main.swift */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXCopyFilesBuildPhase section */
 		14B707191ECC2F7600B05154 /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
@@ -54,6 +58,9 @@
 		1436097E1F9E3FF2006E266B /* 에라토스테네스의 체.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "에라토스테네스의 체.swift"; sourceTree = "<group>"; };
 		143609A41F9F0AC2006E266B /* POT.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = POT.swift; sourceTree = "<group>"; };
 		143609A61F9F0E6A006E266B /* 크리스마스 파티.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "크리스마스 파티.swift"; sourceTree = "<group>"; };
+		143609A81F9F136D006E266B /* 소음.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "소음.swift"; sourceTree = "<group>"; };
+		143609AA1F9F1763006E266B /* 이진수들의합.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "이진수들의합.swift"; sourceTree = "<group>"; };
+		143609AD1F9F26C0006E266B /* main.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		14564A871F13B19500DC899C /* 평균점수.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "평균점수.swift"; sourceTree = "<group>"; };
 		1460888A1F5D608900B88744 /* 최대공약수와 최소공배수.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "최대공약수와 최소공배수.swift"; sourceTree = "<group>"; };
 		1460888C1F5D695B00B88744 /* 팰린드롬인지 확인하기.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "팰린드롬인지 확인하기.swift"; sourceTree = "<group>"; };
@@ -210,6 +217,9 @@
 				1436097E1F9E3FF2006E266B /* 에라토스테네스의 체.swift */,
 				143609A41F9F0AC2006E266B /* POT.swift */,
 				143609A61F9F0E6A006E266B /* 크리스마스 파티.swift */,
+				143609A81F9F136D006E266B /* 소음.swift */,
+				143609AA1F9F1763006E266B /* 이진수들의합.swift */,
+				143609AD1F9F26C0006E266B /* main.swift */,
 			);
 			path = SwiftPratice;
 			sourceTree = "<group>";
@@ -274,6 +284,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				143609AE1F9F26C0006E266B /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
