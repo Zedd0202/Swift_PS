@@ -7,3 +7,8 @@
 //
 
 import Foundation
+var sec = 0
+for index in 1...4{
+    sec += Int(readLine()!)!
+}
+print(sec/60,sec%60,separator : "\n")

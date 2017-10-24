@@ -9,6 +9,7 @@
 import Foundation
 var prime = [Int](repeating:0, count: 1001 )
 var cnt = 0
+var mul = 1
 func findPrime(num:Int, find :Int)->Int{
     for i in stride(from: 2, through: num, by: 1){
         
