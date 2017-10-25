@@ -97,6 +97,7 @@
 		14DF11A71F67B13200509046 /* 정수의개수.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "정수의개수.swift"; sourceTree = "<group>"; };
 		14DF11A91F67B27E00509046 /* 뒤집힌 덧셈.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "뒤집힌 덧셈.swift"; sourceTree = "<group>"; };
 		14E83F641FA0BD2D00B59BCA /* 거스름돈.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "거스름돈.swift"; sourceTree = "<group>"; };
+		14E83F661FA0BF7A00B59BCA /* 농구경기.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "농구경기.swift"; sourceTree = "<group>"; };
 		14EAEF281F86510400827EDD /* 나무자르기.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "나무자르기.swift"; sourceTree = "<group>"; };
 		14F21C961ED668E400798612 /* string쪼개기.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "string쪼개기.swift"; sourceTree = "<group>"; };
 		14F679A41EF13C5400D06DE1 /* 세 수.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "세 수.swift"; sourceTree = "<group>"; };
@@ -224,6 +225,7 @@
 				143B41851FA05D0A0041D405 /* 보물.swift */,
 				143B41871FA062160041D405 /* 세로읽기.swift */,
 				14E83F641FA0BD2D00B59BCA /* 거스름돈.swift */,
+				14E83F661FA0BF7A00B59BCA /* 농구경기.swift */,
 			);
 			path = SwiftPratice;
 			sourceTree = "<group>";
