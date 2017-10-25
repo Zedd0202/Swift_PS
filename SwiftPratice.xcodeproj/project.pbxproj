@@ -6,10 +6,6 @@
 	objectVersion = 46;
 	objects = {
 
-/* Begin PBXBuildFile section */
-		143B41881FA062160041D405 /* 세로읽기.swift in Sources */ = {isa = PBXBuildFile; fileRef = 143B41871FA062160041D405 /* 세로읽기.swift */; };
-/* End PBXBuildFile section */
-
 /* Begin PBXCopyFilesBuildPhase section */
 		14B707191ECC2F7600B05154 /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
@@ -100,6 +96,7 @@
 		14DF11A51F67AD5D00509046 /* 상수.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "상수.swift"; sourceTree = "<group>"; };
 		14DF11A71F67B13200509046 /* 정수의개수.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "정수의개수.swift"; sourceTree = "<group>"; };
 		14DF11A91F67B27E00509046 /* 뒤집힌 덧셈.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "뒤집힌 덧셈.swift"; sourceTree = "<group>"; };
+		14E83F641FA0BD2D00B59BCA /* 거스름돈.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "거스름돈.swift"; sourceTree = "<group>"; };
 		14EAEF281F86510400827EDD /* 나무자르기.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "나무자르기.swift"; sourceTree = "<group>"; };
 		14F21C961ED668E400798612 /* string쪼개기.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "string쪼개기.swift"; sourceTree = "<group>"; };
 		14F679A41EF13C5400D06DE1 /* 세 수.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "세 수.swift"; sourceTree = "<group>"; };
@@ -226,6 +223,7 @@
 				143609B11F9F3260006E266B /* 부녀회장이 될테야.swift */,
 				143B41851FA05D0A0041D405 /* 보물.swift */,
 				143B41871FA062160041D405 /* 세로읽기.swift */,
+				14E83F641FA0BD2D00B59BCA /* 거스름돈.swift */,
 			);
 			path = SwiftPratice;
 			sourceTree = "<group>";
@@ -290,7 +288,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				143B41881FA062160041D405 /* 세로읽기.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
