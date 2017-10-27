@@ -104,6 +104,7 @@
 		14E83F6E1FA0C9CD00B59BCA /* 서버.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "서버.swift"; sourceTree = "<group>"; };
 		14E83F701FA0CBE500B59BCA /* 계단오르기.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "계단오르기.swift"; sourceTree = "<group>"; };
 		14E83F991FA3743200B59BCA /* 파도반수열.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "파도반수열.swift"; sourceTree = "<group>"; };
+		14E83F9B1FA3758000B59BCA /* 중복빼고 정렬하기.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "중복빼고 정렬하기.swift"; sourceTree = "<group>"; };
 		14EAEF281F86510400827EDD /* 나무자르기.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "나무자르기.swift"; sourceTree = "<group>"; };
 		14F21C961ED668E400798612 /* string쪼개기.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "string쪼개기.swift"; sourceTree = "<group>"; };
 		14F679A41EF13C5400D06DE1 /* 세 수.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "세 수.swift"; sourceTree = "<group>"; };
@@ -238,6 +239,7 @@
 				14E83F6E1FA0C9CD00B59BCA /* 서버.swift */,
 				14E83F701FA0CBE500B59BCA /* 계단오르기.swift */,
 				14E83F991FA3743200B59BCA /* 파도반수열.swift */,
+				14E83F9B1FA3758000B59BCA /* 중복빼고 정렬하기.swift */,
 			);
 			path = SwiftPratice;
 			sourceTree = "<group>";
