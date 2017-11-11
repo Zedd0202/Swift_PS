@@ -69,6 +69,7 @@
 		147E27901F6FCE2300A0570A /* Mini Fantasy War .swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Mini Fantasy War .swift"; sourceTree = "<group>"; };
 		147E27921F6FD24900A0570A /* not cute.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "not cute.swift"; sourceTree = "<group>"; };
 		147E27941F6FD45000A0570A /* 큐.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "큐.swift"; sourceTree = "<group>"; };
+		148F64721FB6D02900113341 /* 윷놀이.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "윷놀이.swift"; sourceTree = "<group>"; };
 		1494ED4F1ED017A400634DDE /* A+B.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "A+B.swift"; sourceTree = "<group>"; };
 		1494ED521ED017F400634DDE /* A-B.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "A-B.swift"; sourceTree = "<group>"; };
 		1494ED541ED018E300634DDE /* A나누기B.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "A나누기B.swift"; sourceTree = "<group>"; };
@@ -258,6 +259,7 @@
 				14E83FD01FA7382B00B59BCA /* 듣보잡->시간초과;.swift */,
 				144C54A01FAB0E560041BFDF /* 평균은 넘겠지.swift */,
 				144C54A21FAB0E940041BFDF /* 단어정렬.swift */,
+				148F64721FB6D02900113341 /* 윷놀이.swift */,
 			);
 			path = SwiftPratice;
 			sourceTree = "<group>";
