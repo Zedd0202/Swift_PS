@@ -6,6 +6,10 @@
 	objectVersion = 46;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		148F649B1FBAFA5C00113341 /* 좌표정렬하기.swift in Sources */ = {isa = PBXBuildFile; fileRef = 148F649A1FBAFA5C00113341 /* 좌표정렬하기.swift */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXCopyFilesBuildPhase section */
 		14B707191ECC2F7600B05154 /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
@@ -74,6 +78,7 @@
 		148F64761FB6D40800113341 /* 링.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "링.swift"; sourceTree = "<group>"; };
 		148F64781FB6EAE200113341 /* 공.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "공.swift"; sourceTree = "<group>"; };
 		148F647A1FB8906600113341 /* 배수와 약수.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "배수와 약수.swift"; sourceTree = "<group>"; };
+		148F649A1FBAFA5C00113341 /* 좌표정렬하기.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "좌표정렬하기.swift"; sourceTree = "<group>"; };
 		1494ED4F1ED017A400634DDE /* A+B.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "A+B.swift"; sourceTree = "<group>"; };
 		1494ED521ED017F400634DDE /* A-B.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "A-B.swift"; sourceTree = "<group>"; };
 		1494ED541ED018E300634DDE /* A나누기B.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "A나누기B.swift"; sourceTree = "<group>"; };
@@ -268,6 +273,7 @@
 				148F64761FB6D40800113341 /* 링.swift */,
 				148F64781FB6EAE200113341 /* 공.swift */,
 				148F647A1FB8906600113341 /* 배수와 약수.swift */,
+				148F649A1FBAFA5C00113341 /* 좌표정렬하기.swift */,
 			);
 			path = SwiftPratice;
 			sourceTree = "<group>";
@@ -332,6 +338,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				148F649B1FBAFA5C00113341 /* 좌표정렬하기.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
