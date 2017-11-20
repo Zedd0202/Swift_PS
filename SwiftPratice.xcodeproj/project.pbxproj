@@ -136,6 +136,7 @@
 		14F679B31EF2C95C00D06DE1 /* 수 정렬하기.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "수 정렬하기.swift"; sourceTree = "<group>"; };
 		14F679B61EF2CCC500D06DE1 /* 단어의 개수.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "단어의 개수.swift"; sourceTree = "<group>"; };
 		14FE91581FC18C65009590F6 /* 5와 6의 차이.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "5와 6의 차이.swift"; sourceTree = "<group>"; };
+		14FE915C1FC2800D009590F6 /* 행복한지 슬픈지.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "행복한지 슬픈지.swift"; sourceTree = "<group>"; };
 		9815DD211F2AF2BC00166346 /* 네 개의 소수.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "네 개의 소수.swift"; sourceTree = "<group>"; };
 		9815DD231F2AF2ED00166346 /* 더하기.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "더하기.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -288,6 +289,7 @@
 				148CE7A31FBF0D530016D00D /* 2진수 뒤집기.swift */,
 				148CE7A51FBF12670016D00D /* 분해합.swift */,
 				14FE91581FC18C65009590F6 /* 5와 6의 차이.swift */,
+				14FE915C1FC2800D009590F6 /* 행복한지 슬픈지.swift */,
 			);
 			path = SwiftPratice;
 			sourceTree = "<group>";
