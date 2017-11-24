@@ -90,6 +90,7 @@
 		1494ED5B1ED01CE300634DDE /* A*B.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "A*B.swift"; sourceTree = "<group>"; };
 		1494ED5D1ED01D0200634DDE /* 사칙연산.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "사칙연산.swift"; sourceTree = "<group>"; };
 		1494ED5F1ED01EEB00634DDE /* A+B-2.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "A+B-2.swift"; sourceTree = "<group>"; };
+		149711D71FC863AF0069F6D8 /* 더하기2.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "더하기2.swift"; sourceTree = "<group>"; };
 		14979EDD1F79043F002B0527 /* 스택.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "스택.swift"; sourceTree = "<group>"; };
 		14AA14A71EFAA8A1009B6CB6 /* 유니코드.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "유니코드.swift"; sourceTree = "<group>"; };
 		14B7071B1ECC2F7600B05154 /* SwiftPratice */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = SwiftPratice; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -292,6 +293,7 @@
 				14FE91581FC18C65009590F6 /* 5와 6의 차이.swift */,
 				14FE915C1FC2800D009590F6 /* 행복한지 슬픈지.swift */,
 				1468AB2F1FC2FBFE00E03829 /* FBI.swift */,
+				149711D71FC863AF0069F6D8 /* 더하기2.swift */,
 			);
 			path = SwiftPratice;
 			sourceTree = "<group>";
