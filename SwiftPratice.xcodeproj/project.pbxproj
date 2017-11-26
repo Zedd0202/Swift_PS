@@ -6,10 +6,6 @@
 	objectVersion = 46;
 	objects = {
 
-/* Begin PBXBuildFile section */
-		149711DC1FC866750069F6D8 /* 사칙연산 closure ver.swift in Sources */ = {isa = PBXBuildFile; fileRef = 149711DB1FC866750069F6D8 /* 사칙연산 closure ver.swift */; };
-/* End PBXBuildFile section */
-
 /* Begin PBXCopyFilesBuildPhase section */
 		14B707191ECC2F7600B05154 /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
@@ -66,6 +62,7 @@
 		143B41871FA062160041D405 /* 세로읽기.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "세로읽기.swift"; sourceTree = "<group>"; };
 		144C54A01FAB0E560041BFDF /* 평균은 넘겠지.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "평균은 넘겠지.swift"; sourceTree = "<group>"; };
 		144C54A21FAB0E940041BFDF /* 단어정렬.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "단어정렬.swift"; sourceTree = "<group>"; };
+		144F33411FC9788F0056A02C /* 폰노이만과 파리.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "폰노이만과 파리.swift"; sourceTree = "<group>"; };
 		14564A871F13B19500DC899C /* 평균점수.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "평균점수.swift"; sourceTree = "<group>"; };
 		1460888A1F5D608900B88744 /* 최대공약수와 최소공배수.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "최대공약수와 최소공배수.swift"; sourceTree = "<group>"; };
 		1460888C1F5D695B00B88744 /* 팰린드롬인지 확인하기.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "팰린드롬인지 확인하기.swift"; sourceTree = "<group>"; };
@@ -302,6 +299,7 @@
 				149711D71FC863AF0069F6D8 /* 더하기2.swift */,
 				149711D91FC864950069F6D8 /* 3n+1수열.swift */,
 				149711DB1FC866750069F6D8 /* 사칙연산 closure ver.swift */,
+				144F33411FC9788F0056A02C /* 폰노이만과 파리.swift */,
 			);
 			path = SwiftPratice;
 			sourceTree = "<group>";
@@ -366,7 +364,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				149711DC1FC866750069F6D8 /* 사칙연산 closure ver.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
