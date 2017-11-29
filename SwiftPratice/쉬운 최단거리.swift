@@ -58,7 +58,7 @@ func bfs(_ y:Int, _ x:Int){
     q.push((y,x))
     sol[y][x] = 0
     cnt += 1
-    while(q.count != 0){
+    while(!q.isEmpty){
         var s = q.count
         while(s != 0){
             let currentx = q.front!.second
