@@ -19,12 +19,14 @@ for _ in 1...test{
     dic[input] = (dic[input] ?? 0) + 1
 }
 let sorted = arr.sorted()
+
 func sol(completion:(String,Int,Int,Int)->()){
     let avg = String(format:"%.0f", Double(arr.reduce(0, +))/Double(test))
     let diff = sorted[test-1]-sorted[0]
     let mostArr = dic.max { (first : (key:Int,value:Int), second: (key:Int,value:Int)) -> Bool in
         return first.value < second.value
     }
+    
     let a = dic.filter {$0.value == mostArr?.value}.count
     if a == 1{
         mostValue = mostArr!.key
