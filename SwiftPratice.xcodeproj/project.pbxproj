@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		14F7DFF11FD2F25F008B0017 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14F7DFF01FD2F25F008B0017 /* main.swift */; };
+		142B05021FD5172A00B32568 /* 통계학.swift in Sources */ = {isa = PBXBuildFile; fileRef = 142B05011FD5172A00B32568 /* 통계학.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -41,6 +41,7 @@
 		1420EF2C1F7553710053C0B5 /* 국영수.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "국영수.swift"; sourceTree = "<group>"; };
 		14281D8F1F81211B00175D47 /* 홀수일까 짝수일까.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "홀수일까 짝수일까.swift"; sourceTree = "<group>"; };
 		14281D911F81278D00175D47 /* 가장 긴 감소하는 부분 수열-> 시간초과.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "가장 긴 감소하는 부분 수열-> 시간초과.swift"; sourceTree = "<group>"; };
+		142B05011FD5172A00B32568 /* 통계학.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "통계학.swift"; sourceTree = "<group>"; };
 		14344E1E1ED2A43A002C5C45 /* A+B -3.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "A+B -3.swift"; sourceTree = "<group>"; };
 		14344E201ED2A773002C5C45 /* A+B -4.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "A+B -4.swift"; sourceTree = "<group>"; };
 		14344E221ED2A785002C5C45 /* A+B -5.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "A+B -5.swift"; sourceTree = "<group>"; };
@@ -151,7 +152,7 @@
 		14F679A81EF1549300D06DE1 /* 평균.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "평균.swift"; sourceTree = "<group>"; };
 		14F679B31EF2C95C00D06DE1 /* 수 정렬하기.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "수 정렬하기.swift"; sourceTree = "<group>"; };
 		14F679B61EF2CCC500D06DE1 /* 단어의 개수.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "단어의 개수.swift"; sourceTree = "<group>"; };
-		14F7DFF01FD2F25F008B0017 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		14F7DFF01FD2F25F008B0017 /* 사분면.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "사분면.swift"; sourceTree = "<group>"; };
 		14FE91581FC18C65009590F6 /* 5와 6의 차이.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "5와 6의 차이.swift"; sourceTree = "<group>"; };
 		14FE915C1FC2800D009590F6 /* 행복한지 슬픈지.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "행복한지 슬픈지.swift"; sourceTree = "<group>"; };
 		9815DD211F2AF2BC00166346 /* 네 개의 소수.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "네 개의 소수.swift"; sourceTree = "<group>"; };
@@ -319,7 +320,8 @@
 				14C8F4681FD1293400234397 /* 소수찾기.swift */,
 				14932DCA1FD182E9009CA137 /* 음계.swift */,
 				14932DCC1FD18981009CA137 /* 알파벳찾기.swift */,
-				14F7DFF01FD2F25F008B0017 /* main.swift */,
+				14F7DFF01FD2F25F008B0017 /* 사분면.swift */,
+				142B05011FD5172A00B32568 /* 통계학.swift */,
 			);
 			path = SwiftPratice;
 			sourceTree = "<group>";
@@ -357,7 +359,7 @@
 					14B7071A1ECC2F7600B05154 = {
 						CreatedOnToolsVersion = 8.1;
 						DevelopmentTeam = 9BD2FZATPN;
-						LastSwiftMigration = 0830;
+						LastSwiftMigration = 0910;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -384,7 +386,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				14F7DFF11FD2F25F008B0017 /* main.swift in Sources */,
+				142B05021FD5172A00B32568 /* 통계학.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
