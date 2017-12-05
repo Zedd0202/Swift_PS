@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		1449B15A1FD58A2E00DC676C /* 문자열반복.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1449B1591FD58A2E00DC676C /* 문자열반복.swift */; };
+		1406CFDA1FD657AB00C9D792 /* 알파벳거리.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1406CFD91FD657AB00C9D792 /* 알파벳거리.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +25,7 @@
 /* Begin PBXFileReference section */
 		140526191F7BCCC800478AE9 /* 피보나치함수.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "피보나치함수.swift"; sourceTree = "<group>"; };
 		140526411F811BD400478AE9 /* 괄호.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "괄호.swift"; sourceTree = "<group>"; };
+		1406CFD91FD657AB00C9D792 /* 알파벳거리.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "알파벳거리.swift"; sourceTree = "<group>"; };
 		140869DA1F68F52000AA166B /* 첫글자를 대문자로.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "첫글자를 대문자로.swift"; sourceTree = "<group>"; };
 		140869DC1F68F87100AA166B /* ㅇㅇ.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "ㅇㅇ.swift"; sourceTree = "<group>"; };
 		140869DF1F6A2AB800AA166B /* 모음의 개수.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "모음의 개수.swift"; sourceTree = "<group>"; };
@@ -324,6 +325,7 @@
 				14F7DFF01FD2F25F008B0017 /* 사분면.swift */,
 				142B05011FD5172A00B32568 /* 통계학.swift */,
 				1449B1591FD58A2E00DC676C /* 문자열반복.swift */,
+				1406CFD91FD657AB00C9D792 /* 알파벳거리.swift */,
 			);
 			path = SwiftPratice;
 			sourceTree = "<group>";
@@ -388,7 +390,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				1449B15A1FD58A2E00DC676C /* 문자열반복.swift in Sources */,
+				1406CFDA1FD657AB00C9D792 /* 알파벳거리.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
