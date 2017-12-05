@@ -22,8 +22,8 @@ typealias inputCompletion = ([Character],[Character])->()
 let test = Int(readLine()!)!
 func input(completion : inputCompletion){
     var input = readLine()!.components(separatedBy: " ")
-    let a = Array(input[0].characters)
-    let b = Array(input[1].characters)
+    let a = Array(input[0])
+    let b = Array(input[1])
     completion(a,b)
 }
 func process(completion : processCompletion){
