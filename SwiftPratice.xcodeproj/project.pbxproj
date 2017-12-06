@@ -6,6 +6,10 @@
 	objectVersion = 46;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		14C749811FD7C42200C48D45 /* 검증수.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14C749801FD7C42200C48D45 /* 검증수.swift */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXCopyFilesBuildPhase section */
 		14B707191ECC2F7600B05154 /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
@@ -104,6 +108,7 @@
 		14AA14A71EFAA8A1009B6CB6 /* 유니코드.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "유니코드.swift"; sourceTree = "<group>"; };
 		14B7071B1ECC2F7600B05154 /* SwiftPratice */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = SwiftPratice; sourceTree = BUILT_PRODUCTS_DIR; };
 		14B707251ECC2F9200B05154 /* 그대로출력하기.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "그대로출력하기.swift"; sourceTree = "<group>"; };
+		14C749801FD7C42200C48D45 /* 검증수.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "검증수.swift"; sourceTree = "<group>"; };
 		14C8F4621FCE941800234397 /* ATM.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ATM.swift; sourceTree = "<group>"; };
 		14C8F4661FD125E900234397 /* 카드1.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "카드1.swift"; sourceTree = "<group>"; };
 		14C8F4681FD1293400234397 /* 소수찾기.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "소수찾기.swift"; sourceTree = "<group>"; };
@@ -322,6 +327,7 @@
 				142B05011FD5172A00B32568 /* 통계학.swift */,
 				1449B1591FD58A2E00DC676C /* 문자열반복.swift */,
 				1406CFD91FD657AB00C9D792 /* 알파벳거리.swift */,
+				14C749801FD7C42200C48D45 /* 검증수.swift */,
 			);
 			path = SwiftPratice;
 			sourceTree = "<group>";
@@ -359,7 +365,7 @@
 					14B7071A1ECC2F7600B05154 = {
 						CreatedOnToolsVersion = 8.1;
 						DevelopmentTeam = 9BD2FZATPN;
-						LastSwiftMigration = 0910;
+						LastSwiftMigration = 0920;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -386,6 +392,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				14C749811FD7C42200C48D45 /* 검증수.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
