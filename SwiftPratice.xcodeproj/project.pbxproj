@@ -6,6 +6,10 @@
 	objectVersion = 46;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		1420464E1FDFA765009040CA /* 아스키코드.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1420464D1FDFA765009040CA /* 아스키코드.swift */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXCopyFilesBuildPhase section */
 		14B707191ECC2F7600B05154 /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
@@ -34,6 +38,7 @@
 		140869ED1F6A8A0200AA166B /* 대소문자 바꾸기.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "대소문자 바꾸기.swift"; sourceTree = "<group>"; };
 		140869F31F6AC32800AA166B /* 영수증.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "영수증.swift"; sourceTree = "<group>"; };
 		140869F51F6AC3B200AA166B /* BFS와 DFS.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "BFS와 DFS.swift"; sourceTree = "<group>"; };
+		1420464D1FDFA765009040CA /* 아스키코드.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "아스키코드.swift"; sourceTree = "<group>"; };
 		1420E4311EDC122E0038880E /* 시험성적.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "시험성적.swift"; sourceTree = "<group>"; };
 		1420EF2C1F7553710053C0B5 /* 국영수.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "국영수.swift"; sourceTree = "<group>"; };
 		14281D8F1F81211B00175D47 /* 홀수일까 짝수일까.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "홀수일까 짝수일까.swift"; sourceTree = "<group>"; };
@@ -334,6 +339,7 @@
 				149D8A581FDA971D002898A4 /* 문자가 몇갤까.swift */,
 				149D8A5A1FDA9F5C002898A4 /* ddd.swift */,
 				1452E8271FDD42D1001B3A89 /* 덱.swift */,
+				1420464D1FDFA765009040CA /* 아스키코드.swift */,
 			);
 			path = SwiftPratice;
 			sourceTree = "<group>";
@@ -398,6 +404,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1420464E1FDFA765009040CA /* 아스키코드.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
