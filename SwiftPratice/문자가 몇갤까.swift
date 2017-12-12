@@ -35,7 +35,6 @@ func output(value:Int){
     print(value)
 }
 while(true){
-    
     let input = Array(removeSpecialCharsFromString(mainString: readLine()!.uppercased()).filter{$0 != " "})
     if input.first == "#" {break}
     output(value: process(input: input))
