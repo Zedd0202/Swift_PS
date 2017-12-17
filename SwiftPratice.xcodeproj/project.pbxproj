@@ -38,6 +38,7 @@
 		142046AB1FE0EB5F009040CA /* 한글.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "한글.swift"; sourceTree = "<group>"; };
 		1420E4311EDC122E0038880E /* 시험성적.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "시험성적.swift"; sourceTree = "<group>"; };
 		1420EF2C1F7553710053C0B5 /* 국영수.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "국영수.swift"; sourceTree = "<group>"; };
+		142303311FE29EC300E62489 /* 최소, 최대.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "최소, 최대.swift"; sourceTree = "<group>"; };
 		14281D8F1F81211B00175D47 /* 홀수일까 짝수일까.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "홀수일까 짝수일까.swift"; sourceTree = "<group>"; };
 		14281D911F81278D00175D47 /* 가장 긴 감소하는 부분 수열-> 시간초과.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "가장 긴 감소하는 부분 수열-> 시간초과.swift"; sourceTree = "<group>"; };
 		142B05011FD5172A00B32568 /* 통계학.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "통계학.swift"; sourceTree = "<group>"; };
@@ -338,6 +339,7 @@
 				1452E8271FDD42D1001B3A89 /* 덱.swift */,
 				1420464D1FDFA765009040CA /* 아스키코드.swift */,
 				142046AB1FE0EB5F009040CA /* 한글.swift */,
+				142303311FE29EC300E62489 /* 최소, 최대.swift */,
 			);
 			path = SwiftPratice;
 			sourceTree = "<group>";
