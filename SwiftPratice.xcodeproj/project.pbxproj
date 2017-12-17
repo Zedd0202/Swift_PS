@@ -6,6 +6,10 @@
 	objectVersion = 46;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		1411D6AB1FE6A01900291645 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1411D6AA1FE6A01900291645 /* main.swift */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXCopyFilesBuildPhase section */
 		14B707191ECC2F7600B05154 /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
@@ -34,6 +38,7 @@
 		140869ED1F6A8A0200AA166B /* 대소문자 바꾸기.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "대소문자 바꾸기.swift"; sourceTree = "<group>"; };
 		140869F31F6AC32800AA166B /* 영수증.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "영수증.swift"; sourceTree = "<group>"; };
 		140869F51F6AC3B200AA166B /* BFS와 DFS.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "BFS와 DFS.swift"; sourceTree = "<group>"; };
+		1411D6AA1FE6A01900291645 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		1420464D1FDFA765009040CA /* 아스키코드.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "아스키코드.swift"; sourceTree = "<group>"; };
 		142046AB1FE0EB5F009040CA /* 한글.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "한글.swift"; sourceTree = "<group>"; };
 		1420E4311EDC122E0038880E /* 시험성적.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "시험성적.swift"; sourceTree = "<group>"; };
@@ -340,6 +345,7 @@
 				1420464D1FDFA765009040CA /* 아스키코드.swift */,
 				142046AB1FE0EB5F009040CA /* 한글.swift */,
 				142303311FE29EC300E62489 /* 최소, 최대.swift */,
+				1411D6AA1FE6A01900291645 /* main.swift */,
 			);
 			path = SwiftPratice;
 			sourceTree = "<group>";
@@ -404,6 +410,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1411D6AB1FE6A01900291645 /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
