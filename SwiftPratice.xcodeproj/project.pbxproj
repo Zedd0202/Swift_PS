@@ -75,6 +75,7 @@
 		1460888A1F5D608900B88744 /* 최대공약수와 최소공배수.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "최대공약수와 최소공배수.swift"; sourceTree = "<group>"; };
 		1460888C1F5D695B00B88744 /* 팰린드롬인지 확인하기.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "팰린드롬인지 확인하기.swift"; sourceTree = "<group>"; };
 		1468AB2F1FC2FBFE00E03829 /* FBI.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FBI.swift; sourceTree = "<group>"; };
+		14795E101FEA1A3500021F5A /* 하노이탑.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "하노이탑.swift"; sourceTree = "<group>"; };
 		147E278E1F6FCBAA00A0570A /* 수들의 합.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "수들의 합.swift"; sourceTree = "<group>"; };
 		147E27901F6FCE2300A0570A /* Mini Fantasy War .swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Mini Fantasy War .swift"; sourceTree = "<group>"; };
 		147E27921F6FD24900A0570A /* not cute.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "not cute.swift"; sourceTree = "<group>"; };
@@ -342,6 +343,7 @@
 				142046AB1FE0EB5F009040CA /* 한글.swift */,
 				142303311FE29EC300E62489 /* 최소, 최대.swift */,
 				1411D6AA1FE6A01900291645 /* 최소, 최대 using function.swift */,
+				14795E101FEA1A3500021F5A /* 하노이탑.swift */,
 			);
 			path = SwiftPratice;
 			sourceTree = "<group>";
