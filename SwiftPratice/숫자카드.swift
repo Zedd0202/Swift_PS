@@ -20,7 +20,6 @@ func output(value:Bool){
 }
 func binarySearch(_ sangArr :[Int], _ testArr : [Int]){
     zedd :   for index in testArr{
-        
         var low = 0
         var high = sangArr.count-1
         while(low<=high){
