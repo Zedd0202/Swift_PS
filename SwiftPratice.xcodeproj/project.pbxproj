@@ -147,6 +147,7 @@
 		14DF11A51F67AD5D00509046 /* 상수.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "상수.swift"; sourceTree = "<group>"; };
 		14DF11A71F67B13200509046 /* 정수의개수.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "정수의개수.swift"; sourceTree = "<group>"; };
 		14DF11A91F67B27E00509046 /* 뒤집힌 덧셈.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "뒤집힌 덧셈.swift"; sourceTree = "<group>"; };
+		14E023F7200A472900B0144F /* 중복을 없애자.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "중복을 없애자.swift"; sourceTree = "<group>"; };
 		14E83F641FA0BD2D00B59BCA /* 거스름돈.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "거스름돈.swift"; sourceTree = "<group>"; };
 		14E83F661FA0BF7A00B59BCA /* 농구경기.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "농구경기.swift"; sourceTree = "<group>"; };
 		14E83F681FA0C2E900B59BCA /* TGN.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TGN.swift; sourceTree = "<group>"; };
@@ -366,6 +367,7 @@
 				148EC2F020049FF1001C6642 /* 인생점수.swift */,
 				1475E7602005CEE300B7B645 /* 등수매기기.swift */,
 				1475E7622005D07200B7B645 /* 해밍 거리.swift */,
+				14E023F7200A472900B0144F /* 중복을 없애자.swift */,
 			);
 			path = SwiftPratice;
 			sourceTree = "<group>";
