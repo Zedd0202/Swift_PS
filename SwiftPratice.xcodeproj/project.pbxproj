@@ -6,10 +6,6 @@
 	objectVersion = 46;
 	objects = {
 
-/* Begin PBXBuildFile section */
-		14E9C4CD2015B38100E47E9B /* 저작권.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14E9C4CC2015B38100E47E9B /* 저작권.swift */; };
-/* End PBXBuildFile section */
-
 /* Begin PBXCopyFilesBuildPhase section */
 		14B707191ECC2F7600B05154 /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
@@ -176,6 +172,7 @@
 		14E9C4C82014E22100E47E9B /* 단어공부.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "단어공부.swift"; sourceTree = "<group>"; };
 		14E9C4CA2014E9D800E47E9B /* 소인수분해.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "소인수분해.swift"; sourceTree = "<group>"; };
 		14E9C4CC2015B38100E47E9B /* 저작권.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "저작권.swift"; sourceTree = "<group>"; };
+		14E9C4D52016E4D900E47E9B /* 거리의차이.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "거리의차이.swift"; sourceTree = "<group>"; };
 		14EA2BD11FD9678A00857FA8 /* 모음의개수2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "모음의개수2.swift"; sourceTree = "<group>"; };
 		14EAEF281F86510400827EDD /* 나무자르기.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "나무자르기.swift"; sourceTree = "<group>"; };
 		14ED24181FD9226100F64527 /* 조교는 새디스트야!!.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "조교는 새디스트야!!.swift"; sourceTree = "<group>"; };
@@ -388,6 +385,7 @@
 				14E9C4C82014E22100E47E9B /* 단어공부.swift */,
 				14E9C4CA2014E9D800E47E9B /* 소인수분해.swift */,
 				14E9C4CC2015B38100E47E9B /* 저작권.swift */,
+				14E9C4D52016E4D900E47E9B /* 거리의차이.swift */,
 			);
 			path = SwiftPratice;
 			sourceTree = "<group>";
@@ -452,7 +450,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				14E9C4CD2015B38100E47E9B /* 저작권.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
