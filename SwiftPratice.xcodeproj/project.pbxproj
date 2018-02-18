@@ -108,6 +108,7 @@
 		148DF39520387D850088F205 /* Holes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Holes.swift; sourceTree = "<group>"; };
 		148DF39720392B380088F205 /* 거꾸로 구구단.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "거꾸로 구구단.swift"; sourceTree = "<group>"; };
 		148DF39920392D630088F205 /* Collatz Conjecture.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Collatz Conjecture.swift"; sourceTree = "<group>"; };
+		148DF39B20392F1B0088F205 /* 팰린드롬 (Palindromes).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "팰린드롬 (Palindromes).swift"; sourceTree = "<group>"; };
 		148EC2F020049FF1001C6642 /* 인생점수.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "인생점수.swift"; sourceTree = "<group>"; };
 		148F64721FB6D02900113341 /* 윷놀이.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "윷놀이.swift"; sourceTree = "<group>"; };
 		148F64741FB6D1E100113341 /* 택시기하학.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "택시기하학.swift"; sourceTree = "<group>"; };
@@ -414,6 +415,7 @@
 				148DF39520387D850088F205 /* Holes.swift */,
 				148DF39720392B380088F205 /* 거꾸로 구구단.swift */,
 				148DF39920392D630088F205 /* Collatz Conjecture.swift */,
+				148DF39B20392F1B0088F205 /* 팰린드롬 (Palindromes).swift */,
 			);
 			path = SwiftPratice;
 			sourceTree = "<group>";
