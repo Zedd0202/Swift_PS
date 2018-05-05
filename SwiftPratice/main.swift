@@ -7,3 +7,4 @@
 //
 
 import Foundation
+var test = "test"
