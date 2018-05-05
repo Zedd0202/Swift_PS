@@ -11,4 +11,3 @@ var basket1 = readLine()!.components(separatedBy: " ").map({Int($0)!})
 var basket2 = readLine()!.components(separatedBy: " ").map({Int($0)!})
 print(min(basket1[0]+basket2[1],basket1[1]+basket2[0]))
 
-
