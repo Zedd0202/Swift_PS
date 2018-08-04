@@ -6,10 +6,6 @@
 	objectVersion = 46;
 	objects = {
 
-/* Begin PBXBuildFile section */
-		14FD7D02209D7F8C00397014 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14FD7D01209D7F8C00397014 /* main.swift */; };
-/* End PBXBuildFile section */
-
 /* Begin PBXCopyFilesBuildPhase section */
 		14B707191ECC2F7600B05154 /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
@@ -204,7 +200,7 @@
 		14F679B31EF2C95C00D06DE1 /* 수 정렬하기.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "수 정렬하기.swift"; sourceTree = "<group>"; };
 		14F679B61EF2CCC500D06DE1 /* 단어의 개수.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "단어의 개수.swift"; sourceTree = "<group>"; };
 		14F7DFF01FD2F25F008B0017 /* 사분면.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "사분면.swift"; sourceTree = "<group>"; };
-		14FD7D01209D7F8C00397014 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		14FD7D01209D7F8C00397014 /* 소수단어.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "소수단어.swift"; sourceTree = "<group>"; };
 		14FE91581FC18C65009590F6 /* 5와 6의 차이.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "5와 6의 차이.swift"; sourceTree = "<group>"; };
 		14FE915C1FC2800D009590F6 /* 행복한지 슬픈지.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "행복한지 슬픈지.swift"; sourceTree = "<group>"; };
 		9815DD211F2AF2BC00166346 /* 네 개의 소수.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "네 개의 소수.swift"; sourceTree = "<group>"; };
@@ -425,7 +421,7 @@
 				148DF39B20392F1B0088F205 /* 팰린드롬 (Palindromes).swift */,
 				148DF39D2039327C0088F205 /* 단어 순서 뒤집기.swift */,
 				148DF39F203936DF0088F205 /* 파일옮기기.swift */,
-				14FD7D01209D7F8C00397014 /* main.swift */,
+				14FD7D01209D7F8C00397014 /* 소수단어.swift */,
 			);
 			path = SwiftPratice;
 			sourceTree = "<group>";
@@ -490,7 +486,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				14FD7D02209D7F8C00397014 /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

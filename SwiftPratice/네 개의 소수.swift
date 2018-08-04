@@ -7,7 +7,7 @@
 //
 
 import Foundation
-var prime = [Int](repeating:0, count: 1000001 )
+var prime = [Int](repeating:0, count: 27 )
 func findPrime(num:Int){
     for i in stride(from: 2, through: num, by: 1){
         if prime[i] == 0{
