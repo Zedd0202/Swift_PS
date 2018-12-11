@@ -146,6 +146,7 @@
 		14BD9A462115CDB700202DCC /* 이상한기호.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "이상한기호.swift"; sourceTree = "<group>"; };
 		14C0826F214F9D3C00FA1CB8 /* 행복.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "행복.swift"; sourceTree = "<group>"; };
 		14C08271214FAE9500FA1CB8 /* 더하기4.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "더하기4.swift"; sourceTree = "<group>"; };
+		14C745E521BF48BF0037FAAA /* 꼬마정민.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "꼬마정민.swift"; sourceTree = "<group>"; };
 		14C749801FD7C42200C48D45 /* 검증수.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "검증수.swift"; sourceTree = "<group>"; };
 		14C8F4621FCE941800234397 /* ATM.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ATM.swift; sourceTree = "<group>"; };
 		14C8F4661FD125E900234397 /* 카드1.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "카드1.swift"; sourceTree = "<group>"; };
@@ -430,6 +431,7 @@
 				146394572122843C00FC601C /* 첼시를 도와줘!.swift */,
 				14C0826F214F9D3C00FA1CB8 /* 행복.swift */,
 				14C08271214FAE9500FA1CB8 /* 더하기4.swift */,
+				14C745E521BF48BF0037FAAA /* 꼬마정민.swift */,
 			);
 			path = SwiftPratice;
 			sourceTree = "<group>";
@@ -467,7 +469,7 @@
 					14B7071A1ECC2F7600B05154 = {
 						CreatedOnToolsVersion = 8.1;
 						DevelopmentTeam = 9BD2FZATPN;
-						LastSwiftMigration = 0940;
+						LastSwiftMigration = 1010;
 						ProvisioningStyle = Automatic;
 					};
 				};
