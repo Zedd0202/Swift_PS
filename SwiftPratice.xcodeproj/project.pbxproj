@@ -20,6 +20,7 @@
 
 /* Begin PBXFileReference section */
 		1404DB7521BF6DB700F43331 /* 이진수변환.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "이진수변환.swift"; sourceTree = "<group>"; };
+		1404DB7721BF6ED400F43331 /* 네 수.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "네 수.swift"; sourceTree = "<group>"; };
 		140526191F7BCCC800478AE9 /* 피보나치함수.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "피보나치함수.swift"; sourceTree = "<group>"; };
 		140526411F811BD400478AE9 /* 괄호.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "괄호.swift"; sourceTree = "<group>"; };
 		1406CFD91FD657AB00C9D792 /* 알파벳거리.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "알파벳거리.swift"; sourceTree = "<group>"; };
@@ -434,6 +435,7 @@
 				14C08271214FAE9500FA1CB8 /* 더하기4.swift */,
 				14C745E521BF48BF0037FAAA /* 꼬마정민.swift */,
 				1404DB7521BF6DB700F43331 /* 이진수변환.swift */,
+				1404DB7721BF6ED400F43331 /* 네 수.swift */,
 			);
 			path = SwiftPratice;
 			sourceTree = "<group>";
