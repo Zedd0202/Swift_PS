@@ -10,3 +10,5 @@ import Foundation
 var a = readLine()!
 var b = Int(a,radix: 16)!
 print(b)
+
+
