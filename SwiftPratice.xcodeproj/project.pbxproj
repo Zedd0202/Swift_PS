@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		14C78384222A6304009FDEAB /* 집주소.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14C78383222A6304009FDEAB /* 집주소.swift */; };
+		1413F2D9222DFE8700947E2D /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1413F2D8222DFE8700947E2D /* main.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -41,6 +41,7 @@
 		140869F31F6AC32800AA166B /* 영수증.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "영수증.swift"; sourceTree = "<group>"; };
 		140869F51F6AC3B200AA166B /* BFS와 DFS.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "BFS와 DFS.swift"; sourceTree = "<group>"; };
 		1411D6AA1FE6A01900291645 /* 최소, 최대 using function.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "최소, 최대 using function.swift"; sourceTree = "<group>"; };
+		1413F2D8222DFE8700947E2D /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		141B53912014D52F0046E074 /* R2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = R2.swift; sourceTree = "<group>"; };
 		1420464D1FDFA765009040CA /* 아스키코드.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "아스키코드.swift"; sourceTree = "<group>"; };
 		142046AB1FE0EB5F009040CA /* 한글.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "한글.swift"; sourceTree = "<group>"; };
@@ -480,6 +481,7 @@
 				1429419522227A900048FF21 /* 희주의 수학시험.swift */,
 				149F7256222388350039B574 /* 단어뒤집기.swift */,
 				14C78383222A6304009FDEAB /* 집주소.swift */,
+				1413F2D8222DFE8700947E2D /* main.swift */,
 			);
 			path = SwiftPratice;
 			sourceTree = "<group>";
@@ -527,6 +529,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 			);
 			mainGroup = 14B707121ECC2F7600B05154;
@@ -544,7 +547,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				14C78384222A6304009FDEAB /* 집주소.swift in Sources */,
+				1413F2D9222DFE8700947E2D /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -653,7 +656,7 @@
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_OBJC_BRIDGING_HEADER = "";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
-				SWIFT_VERSION = 3.0;
+				SWIFT_VERSION = 5.0;
 			};
 			name = Debug;
 		};
@@ -665,7 +668,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @loader_path/../Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_OBJC_BRIDGING_HEADER = "";
-				SWIFT_VERSION = 3.0;
+				SWIFT_VERSION = 5.0;
 			};
 			name = Release;
 		};
