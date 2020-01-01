@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		14A3681323ACA41B003A246D /* 고급수학.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14A3681223ACA41B003A246D /* 고급수학.swift */; };
+		148A41BF23BC94E30081C47E /* 한다안한다.swift in Sources */ = {isa = PBXBuildFile; fileRef = 148A41BE23BC94E30081C47E /* 한다안한다.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -117,6 +117,7 @@
 		147E27901F6FCE2300A0570A /* Mini Fantasy War .swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Mini Fantasy War .swift"; sourceTree = "<group>"; };
 		147E27921F6FD24900A0570A /* not cute.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "not cute.swift"; sourceTree = "<group>"; };
 		147E27941F6FD45000A0570A /* 큐.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "큐.swift"; sourceTree = "<group>"; };
+		148A41BE23BC94E30081C47E /* 한다안한다.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "한다안한다.swift"; sourceTree = "<group>"; };
 		148A5A7A1FCAC2CA0037F2DF /* 소수->왜틀림?.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "소수->왜틀림?.swift"; sourceTree = "<group>"; };
 		148CE7991FBC65E80016D00D /* 나머지.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "나머지.swift"; sourceTree = "<group>"; };
 		148CE79B1FBC678D0016D00D /* 베스트셀러.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "베스트셀러.swift"; sourceTree = "<group>"; };
@@ -484,6 +485,7 @@
 				14C78383222A6304009FDEAB /* 집주소.swift */,
 				1413F2D8222DFE8700947E2D /* 단어 정렬.swift */,
 				14A3681223ACA41B003A246D /* 고급수학.swift */,
+				148A41BE23BC94E30081C47E /* 한다안한다.swift */,
 			);
 			path = SwiftPratice;
 			sourceTree = "<group>";
@@ -521,7 +523,7 @@
 					14B7071A1ECC2F7600B05154 = {
 						CreatedOnToolsVersion = 8.1;
 						DevelopmentTeam = 9BD2FZATPN;
-						LastSwiftMigration = 1010;
+						LastSwiftMigration = 1130;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -549,7 +551,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				14A3681323ACA41B003A246D /* 고급수학.swift in Sources */,
+				148A41BF23BC94E30081C47E /* 한다안한다.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
