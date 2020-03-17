@@ -37,6 +37,7 @@ func detectQuadrant(x: Int, y: Int) -> Int? {
     }
 }
 print(detectQuadrant(x: x, y: y)!)
+// 깔끔하게 하고싶었는데 과한 코드인가 싶음. 
 
 
 
