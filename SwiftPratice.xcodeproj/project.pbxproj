@@ -36,6 +36,7 @@
 		140869ED1F6A8A0200AA166B /* 대소문자 바꾸기.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "대소문자 바꾸기.swift"; sourceTree = "<group>"; };
 		140869F31F6AC32800AA166B /* 영수증.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "영수증.swift"; sourceTree = "<group>"; };
 		140869F51F6AC3B200AA166B /* BFS와 DFS.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "BFS와 DFS.swift"; sourceTree = "<group>"; };
+		140D7B2824220C7B00060374 /* Sum of Odd Sequence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Sum of Odd Sequence.swift"; sourceTree = "<group>"; };
 		1411D6AA1FE6A01900291645 /* 최소, 최대 using function.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "최소, 최대 using function.swift"; sourceTree = "<group>"; };
 		1413F2D8222DFE8700947E2D /* 단어 정렬.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "단어 정렬.swift"; sourceTree = "<group>"; };
 		141B53912014D52F0046E074 /* R2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = R2.swift; sourceTree = "<group>"; };
@@ -500,6 +501,7 @@
 				141FDE5A23ED616B008DA550 /* 사분면 고르기.swift */,
 				14759AAA2421232600491238 /* 알람 시계.swift */,
 				14759AAC242127DF00491238 /* CASIO.swift */,
+				140D7B2824220C7B00060374 /* Sum of Odd Sequence.swift */,
 			);
 			path = SwiftPratice;
 			sourceTree = "<group>";
