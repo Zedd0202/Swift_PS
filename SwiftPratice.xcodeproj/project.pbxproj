@@ -106,6 +106,7 @@
 		1468AB2F1FC2FBFE00E03829 /* FBI.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FBI.swift; sourceTree = "<group>"; };
 		146D5B421FF20BAA00CA8AA1 /* 합8393.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "합8393.swift"; sourceTree = "<group>"; };
 		14759AAA2421232600491238 /* 알람 시계.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "알람 시계.swift"; sourceTree = "<group>"; };
+		14759AAC242127DF00491238 /* CASIO.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CASIO.swift; sourceTree = "<group>"; };
 		1475E7602005CEE300B7B645 /* 등수매기기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "등수매기기.swift"; sourceTree = "<group>"; };
 		1475E7622005D07200B7B645 /* 해밍 거리.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "해밍 거리.swift"; sourceTree = "<group>"; };
 		147614592003591100AFB5E6 /* 집합-시간초과.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "집합-시간초과.swift"; sourceTree = "<group>"; };
@@ -498,6 +499,7 @@
 				14D1DAC323C1BC95003BBCDA /* 비교연산자.swift */,
 				141FDE5A23ED616B008DA550 /* 사분면 고르기.swift */,
 				14759AAA2421232600491238 /* 알람 시계.swift */,
+				14759AAC242127DF00491238 /* CASIO.swift */,
 			);
 			path = SwiftPratice;
 			sourceTree = "<group>";
@@ -610,7 +612,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				MACOSX_DEPLOYMENT_TARGET = 10.12;
+				MACOSX_DEPLOYMENT_TARGET = 10.15;
 				MTL_ENABLE_DEBUG_INFO = YES;
 				ONLY_ACTIVE_ARCH = YES;
 				SDKROOT = macosx;
@@ -654,7 +656,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				MACOSX_DEPLOYMENT_TARGET = 10.12;
+				MACOSX_DEPLOYMENT_TARGET = 10.15;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				SDKROOT = macosx;
 				SWIFT_INSTALL_OBJC_HEADER = YES;
