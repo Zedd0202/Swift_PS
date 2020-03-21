@@ -12,9 +12,7 @@ var cnt = 0
 var mul = 1
 func findPrime(num:Int, find :Int)->Int{
     for i in stride(from: 2, through: num, by: 1){
-        
-        
-        if prime[i] == 0{
+                if prime[i] == 0{
             cnt += 1
             //print(i,1)
             for j in stride(from: i*i, through: num, by: i){
