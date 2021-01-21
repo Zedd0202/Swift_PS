@@ -6,10 +6,6 @@
 	objectVersion = 46;
 	objects = {
 
-/* Begin PBXBuildFile section */
-		14F9193A25B9C62800B35D89 /* 셀프넘버.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14F9193925B9C62800B35D89 /* 셀프넘버.swift */; };
-/* End PBXBuildFile section */
-
 /* Begin PBXCopyFilesBuildPhase section */
 		14B707191ECC2F7600B05154 /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
@@ -248,6 +244,7 @@
 		14F679B61EF2CCC500D06DE1 /* 단어의 개수.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "단어의 개수.swift"; sourceTree = "<group>"; };
 		14F7DFF01FD2F25F008B0017 /* 사분면.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "사분면.swift"; sourceTree = "<group>"; };
 		14F9193925B9C62800B35D89 /* 셀프넘버.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "셀프넘버.swift"; sourceTree = "<group>"; };
+		14F9193E25B9CB4D00B35D89 /* 한수.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "한수.swift"; sourceTree = "<group>"; };
 		14FD7D01209D7F8C00397014 /* 소수단어.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "소수단어.swift"; sourceTree = "<group>"; };
 		14FE91581FC18C65009590F6 /* 5와 6의 차이.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "5와 6의 차이.swift"; sourceTree = "<group>"; };
 		14FE915C1FC2800D009590F6 /* 행복한지 슬픈지.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "행복한지 슬픈지.swift"; sourceTree = "<group>"; };
@@ -514,6 +511,7 @@
 				140D7B7A2423359F00060374 /* 이상한 곱셈.swift */,
 				14BEFA11250F617A009C9267 /* 제리와 톰.swift */,
 				14F9193925B9C62800B35D89 /* 셀프넘버.swift */,
+				14F9193E25B9CB4D00B35D89 /* 한수.swift */,
 			);
 			path = SwiftPratice;
 			sourceTree = "<group>";
@@ -579,7 +577,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				14F9193A25B9C62800B35D89 /* 셀프넘버.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
