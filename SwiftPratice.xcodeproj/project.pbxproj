@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		140D7B7B2423359F00060374 /* 이상한 곱셈.swift in Sources */ = {isa = PBXBuildFile; fileRef = 140D7B7A2423359F00060374 /* 이상한 곱셈.swift */; };
+		14BEFA12250F617A009C9267 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14BEFA11250F617A009C9267 /* main.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -181,6 +181,7 @@
 		14B7071B1ECC2F7600B05154 /* SwiftPratice */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = SwiftPratice; sourceTree = BUILT_PRODUCTS_DIR; };
 		14B707251ECC2F9200B05154 /* 그대로출력하기.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "그대로출력하기.swift"; sourceTree = "<group>"; };
 		14BD9A462115CDB700202DCC /* 이상한기호.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "이상한기호.swift"; sourceTree = "<group>"; };
+		14BEFA11250F617A009C9267 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		14C0826F214F9D3C00FA1CB8 /* 행복.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "행복.swift"; sourceTree = "<group>"; };
 		14C08271214FAE9500FA1CB8 /* 더하기4.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "더하기4.swift"; sourceTree = "<group>"; };
 		14C745E521BF48BF0037FAAA /* 꼬마정민.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "꼬마정민.swift"; sourceTree = "<group>"; };
@@ -510,6 +511,7 @@
 				140D7B2824220C7B00060374 /* Sum of Odd Sequence.swift */,
 				140D7B782423348A00060374 /* 1998년생인 내가 태국에서는 2541년생?!.swift */,
 				140D7B7A2423359F00060374 /* 이상한 곱셈.swift */,
+				14BEFA11250F617A009C9267 /* main.swift */,
 			);
 			path = SwiftPratice;
 			sourceTree = "<group>";
@@ -547,7 +549,7 @@
 					14B7071A1ECC2F7600B05154 = {
 						CreatedOnToolsVersion = 8.1;
 						DevelopmentTeam = 9BD2FZATPN;
-						LastSwiftMigration = 1130;
+						LastSwiftMigration = 1170;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -575,7 +577,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				140D7B7B2423359F00060374 /* 이상한 곱셈.swift in Sources */,
+				14BEFA12250F617A009C9267 /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -629,6 +631,7 @@
 				SDKROOT = macosx;
 				SWIFT_INSTALL_OBJC_HEADER = YES;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 5.0;
 			};
 			name = Debug;
 		};
@@ -672,6 +675,7 @@
 				SDKROOT = macosx;
 				SWIFT_INSTALL_OBJC_HEADER = YES;
 				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
+				SWIFT_VERSION = 5.0;
 			};
 			name = Release;
 		};
