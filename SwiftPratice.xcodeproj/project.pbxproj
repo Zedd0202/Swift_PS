@@ -6,10 +6,6 @@
 	objectVersion = 46;
 	objects = {
 
-/* Begin PBXBuildFile section */
-		1493B88A25BDB6C400ED98CB /* 다이얼.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1493B88925BDB6C400ED98CB /* 다이얼.swift */; };
-/* End PBXBuildFile section */
-
 /* Begin PBXCopyFilesBuildPhase section */
 		14B707191ECC2F7600B05154 /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
@@ -156,6 +152,7 @@
 		14932DCA1FD182E9009CA137 /* 음계.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "음계.swift"; sourceTree = "<group>"; };
 		14932DCC1FD18981009CA137 /* 알파벳찾기.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "알파벳찾기.swift"; sourceTree = "<group>"; };
 		1493B88925BDB6C400ED98CB /* 다이얼.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "다이얼.swift"; sourceTree = "<group>"; };
+		1493B88D25BDB9B800ED98CB /* 쌍의 합.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "쌍의 합.swift"; sourceTree = "<group>"; };
 		1494ED4F1ED017A400634DDE /* A+B.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "A+B.swift"; sourceTree = "<group>"; };
 		1494ED521ED017F400634DDE /* A-B.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "A-B.swift"; sourceTree = "<group>"; };
 		1494ED541ED018E300634DDE /* A나누기B.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "A나누기B.swift"; sourceTree = "<group>"; };
@@ -518,6 +515,7 @@
 				14F9193925B9C62800B35D89 /* 셀프넘버.swift */,
 				14F9193E25B9CB4D00B35D89 /* 한수.swift */,
 				1493B88925BDB6C400ED98CB /* 다이얼.swift */,
+				1493B88D25BDB9B800ED98CB /* 쌍의 합.swift */,
 			);
 			path = SwiftPratice;
 			sourceTree = "<group>";
@@ -583,7 +581,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				1493B88A25BDB6C400ED98CB /* 다이얼.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
